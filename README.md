@@ -49,7 +49,7 @@ An Android application for tracking cricket match scores between two teams. Keep
 
 ## Demo
 
-![Cricket Tracker Demo](screenshots/demo.webm)
+![Cricket Tracker Demo](screenshots/demo.gif)
 
 ---
 
@@ -125,7 +125,7 @@ An Android application for tracking cricket match scores between two teams. Keep
 ├── screenshots/
 │   ├── home_screen.png
 │   ├── match_progress.png
-│   └── demo.webm
+│   └── demo.gif
 ├── gradle/
 ├── build.gradle
 ├── gradle.properties
@@ -163,7 +163,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-- Built as part of Android Nanodegree program
+- Built as part of Android Basics Nanodegree program
 - Inspired by the need for simple cricket scoring solutions
 
 ---
